@@ -1,0 +1,2 @@
+from job_title_classifier.JobTitleClassifier import JobTitleClassifier
+from job_title_classifier.euclid_util import load_string_associated_vectors
